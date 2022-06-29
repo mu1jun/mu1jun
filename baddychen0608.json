@@ -9,7 +9,7 @@
 {
 "wallpaper":"https://picsum.photos/1080",
 
-"spider":"clan://baddychen0608/0627.jar",
+"spider":"https://mu1jun.github.io/mu1jun/0627.jar",
 
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":[
 "proxy://do=live&type=txt&ext=Y2xhbjovL2JhZGR5Y2hlbjA2MDgvdHYvbGl2ZS50eHQ="
