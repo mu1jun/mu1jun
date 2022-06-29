@@ -46,10 +46,10 @@
 
 {"key": "teyond__xp__极品影视","name": "🍎极品影视〔X〕","type": 3,"api": "csp_XPathMac"      ,"searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://mtv.chxjon.cn/m/xpath/极品影视.json"},
 
-{"key":"csp_biubiu_厂长资源-蓝光","name":"🥒厂长资源-蓝光(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://mu1jun.github.io/mu1jun/MeowXB/厂长资源-蓝光.json"},
+{"key":"csp_biubiu_厂长资源-蓝光","name":"💖厂长资源-蓝光(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://mu1jun.github.io/mu1jun/MeowXB/厂长资源-蓝光.json"},
 
 
-{"key":"csp_biubiu_特狗影视","name":"🥒特狗影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://mu1jun.github.io/mu1jun/MeowXB/特狗影视.json"},
+{"key":"csp_biubiu_特狗影视","name":"💥特狗影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://mu1jun.github.io/mu1jun/MeowXB/特狗影视.json"},
 {"key":"csp_biubiu_喜鹊视频","name":"🥒喜鹊视频(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://mu1jun.github.io/mu1jun/MeowXB/喜鹊视频.json"},
 {"key":"csp_biubiu_瓜皮TV","name":"🥒瓜皮TV(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://mu1jun.github.io/mu1jun/MeowXB/瓜皮TV.json"},
 {"key":"csp_biubiu_真的卡影院","name":"🥒真的卡影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://mu1jun.github.io/mu1jun/MeowXB/真的卡影院.json"},
