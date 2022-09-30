@@ -28,7 +28,7 @@
 
 {"key":"KanSJ_spider","name":"🐸看视界（SP）","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"","jar":"https://agit.ai/jm/me/raw/branch/master/ja/0828.jar;md5;1C1482FF646CC40E1F924EBE320822BC"},
 {"key":"csp_dy5555","name": "5️⃣️555影视（SP）","api":"csp_Dy555","type":3,"filterable":1,"quickSearch": 1,"searchable":1},
-{"key":"csp_SP293","name":"🎍293影视","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/jm/me/raw/branch/master/ja/SP293.jar;md5;B0E36660C3DAC82272D197ED16C7C6E2"},    
+{"key":"csp_SP293","name":"🎍293影视","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/jm/me/raw/branch/master/ja/kan926.jar;md5;a3c557e3797720bebd3ec8b6ded384b5"},    
 {"key": "剧荒TV（SP）","name": "🐈剧荒TV（SP）","type": 3,"api": "csp_Juhuang","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"","jar":"https://agit.ai/jm/me/raw/branch/master/ja/juhuang.jar;md5;076e2157530714a37606e1599c01a19a"},
 {"key": "csp_Yj1211","name": "📽️游戏直播(SP)","type": 3,"api": "csp_Yj1211","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://agit.ai/jm/me/raw/branch/master/ja/修复直播.jar;md5;007c4f7c81c2d53c12a157c63cc6ab88"},    
 
