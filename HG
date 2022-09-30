@@ -18,7 +18,7 @@
 {"key":"csp_Yisou","name":"🤡易搜盘(搜索)","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":0,"ext":"81461f2e9d0b4ffb86612db403824b8a","jar":"https://agit.ai/jm/me/raw/branch/master/ja/TOKENtest.jar;md5;50873684e56831f13e6d119ec2862c4a"},
 
 {"key":"csp_xpath_cilisou","name":"🤑磁力搜(搜索)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/jm/me/raw/branch/master/PO/磁力.json"},
-{"key":"csp_biubiu_皮皮泡","name":"🌕皮皮泡(推荐)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/cainisi/TVBox/raw/master/XBiubiu/皮皮泡.json"},
+
 {"key":"csp_77","name":"🐶酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/jm/me/raw/branch/master/ja/77.jar;md5;1B0FAE7C99B09C6F66D6C39B114580A9"},
 {"key":"csp_SP360","name":"😜360(SP)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/jm/me/raw/branch/master/ja/0712.jar"},
 {"key":"csp_Kuaikan","name":"👀快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
@@ -49,7 +49,8 @@
 
 {"key": "NianYing","name": "🎉 NianYing(SP)","type": 3,"api": "csp_NianYing","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://agit.ai/jm/me/raw/branch/master/ja/0909.jar;md5;f7e8f5c2ca634d5f5ccfce1d75b54150"},
 {"key": "py_cctv","name": "🦂央视自选","type": 3,"api": "py_cctv","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://agit.ai/jm/me/raw/branch/master/PO/py_cctv.py"},
-
+{"key": " py_3qu","name": "🎥快播影视","type": 3,"api": "py_3qu","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://agit.ai/jm/me/raw/branch/master/PO/py_3qu.py"},
+   {"key":"csp_XBPQ皮皮泡影视","name":"💡皮皮泡影视〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/jm/me/raw/branch/master/PO/皮皮泡影视.json"}, 
 
 {"key":"csp_xpath_libv","name": "🛶Libvio(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/jm/me/raw/branch/master/PO/libvp.json","jar":"https://agit.ai/jm/me/raw/branch/master/ja/cs.jar;md5;292c5f602e90ca870e9a017b16cf59cb"},
 {"key":"csp_biubiu_真不卡影院","name":"🚇真不卡影院(QXB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/jm/me/raw/branch/master/PO/真不卡影院.json"},
