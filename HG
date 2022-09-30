@@ -1,10 +1,8 @@
 ﻿{
   
-   //"spider": "https://agit.ai/jm/me/raw/branch/master/ja/XC0902.jar;md5;1BB799E2DE0091A61B22BC5FFF8B8376",
-   //"spider":"https://agit.ai/jm/me/raw/branch/master/ja/XC0909.jar;md5;71EC26BFC378CE1F1FD8E1D6C071E11F",
-   //"spider":"https://agit.ai/jm/me/raw/branch/master/ja/0827.jar;md5;556f61ac1c13a3a3246dbe28afc592bd",
+   
    "spider":"https://agit.ai/jm/me/raw/branch/master/ja/LZ0925.jar;md5;a1df350ddb1735dbed67ee65227e6cd9",
-   //"spider":"https://agit.ai/jm/me/raw/branch/master/ja/0910.jar;md5;447aeb4bff648a8090225dd29bc225af",
+   
     "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9tdTFqdW4uZ2l0aHViLmlvL211MWp1bi9saXZlMS50eHQ="]}]}],
 
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
