@@ -9,13 +9,13 @@
     "filterdata":{},
     "cat_mode": "0",
     "catjsonlist": "vList",
-    //json片单图片
+   
     "catjsonpic": "sScreenshot",
-    //json片单标题
+   
     "catjsonname": "sRoomName",
-    //json片单链接
+   
     "catjsonid": "lProfileRoom",
-    //json片单副标题，这个很少有，预留着
+    
     "catjsonstitle":"sNick",
     
     "cat_YN_twice": "1",
