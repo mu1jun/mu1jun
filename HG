@@ -51,7 +51,7 @@
 {"key": "py_cctv","name": "🦂央视自选","type": 3,"api": "py_cctv","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://agit.ai/jm/me/raw/branch/master/PO/py_cctv.py"},
 {"key": " py_3qu","name": "🎥快播影视","type": 3,"api": "py_3qu","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://agit.ai/jm/me/raw/branch/master/PO/py_3qu.py"},
 {"key": "py_bilimd","name":"哔哩影视(py)","type":3,"api":"py_bilimd","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://agit.ai/jm/me/raw/branch/master/PO/bilimd.py"},
-
+{"key":"py_czspp","name":"厂长影视(py)","type":3,"api":"py_czspp","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://agit.ai/jm/me/raw/branch/master/PO/czsy.py"},
 
 {"key":"csp_XBPQ皮皮泡影视","name":"💡皮皮泡影视〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/jm/me/raw/branch/master/PO/皮皮泡影视.json"}, 
 
