@@ -21,7 +21,7 @@
 {"key":"csp_Yisou","name":"🤡易搜盘(搜索)","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":0,"ext":"81461f2e9d0b4ffb86612db403824b8a","jar":"https://mu1jun.github.io/mu1jun/HJ/TOKENtest.jar;md5;50873684e56831f13e6d119ec2862c4a"},
 
 {"key":"csp_xpath_cilisou","name":"🤑磁力搜(搜索)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://mu1jun.github.io/mu1jun/CC/磁力.json"},
-{"key":"csp_biubiu_皮皮泡","name":"🌕皮皮泡(推荐)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/cainisi/TVBox/raw/master/XBiubiu/皮皮泡.json"},
+//{"key":"csp_biubiu_皮皮泡","name":"🌕皮皮泡(推荐)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/cainisi/TVBox/raw/master/XBiubiu/皮皮泡.json"},
 {"key":"csp_77","name":"🐶酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://mu1jun.github.io/mu1jun/HJ/77.jar;md5;1B0FAE7C99B09C6F66D6C39B114580A9"},
 {"key":"csp_SP360","name":"😜360(SP)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://mu1jun.github.io/mu1jun/HJ/0712.jar"},
 {"key":"csp_Kuaikan","name":"👀快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
@@ -43,19 +43,24 @@
 
 
 {"key":"Lib","name":"🌟Libvio","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://mu1jun.github.io/mu1jun/HJ/YXB.jar;md5;c22e877441db6f0b3247e24be2dd4a44"},
-{"key": "csp_Jianying"        ,"name": "🏮简影资源【1080】","type": 3,"api": "csp_JianYing","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjozMzEyMywiQ3JlYXRlZEF0IjoiMjAyMi0wOS0wNlQwOTo1Mjo0Mi42MDUrMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTA5LTA2VDA5OjUyOjQyLjYwNSswODowMCIsIkRlbGV0ZWRBdCI6bnVsbCwidXNlcl9lbWFpbCI6Ijc2NjAyNTk4MkBxcS5jb20iLCJ1c2VyX25hbWUiOiIiLCJ1c2VyX3B3ZCI6IiIsInVzZXJfaWQiOiJjNWY1Yzc4Yy1hMzM4LTQ3MTQtOWM4Zi1hNmE2ZDMyMDAyZWMiLCJ1c2VyX2Fuc3dlciI6IiIsImxvY2tfaXMiOiJGYWxzZSIsImlzX3R2IjoiIiwiaXNfYWRtaW4iOiJGYWxzZSIsInJlZ190aW1lIjpudWxsLCJyZWdfa2V5IjoiIiwidHZfdGltZSI6bnVsbCwidHZfa2V5IjoiIn0sImV4cCI6MTY2MzAzMzk2NiwiaXNzIjoiQWxmcmVkbyBNZW5kb3phIn0.8fY0j9TBEz6OVuVXNrtXuU9NsdW3CMCzwyIX0WNCiIU","jar":"https://mu1jun.github.io/mu1jun/HJ/91b.jar;md5;850a5b1dfa272625693478d6befc4a0e"},
+{"key": "csp_Jianying","name": "🏮简影资源【1080】","type": 3,"api": "csp_JianYing","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjozMzEyMywiQ3JlYXRlZEF0IjoiMjAyMi0wOS0wNlQwOTo1Mjo0Mi42MDUrMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTA5LTA2VDA5OjUyOjQyLjYwNSswODowMCIsIkRlbGV0ZWRBdCI6bnVsbCwidXNlcl9lbWFpbCI6Ijc2NjAyNTk4MkBxcS5jb20iLCJ1c2VyX25hbWUiOiIiLCJ1c2VyX3B3ZCI6IiIsInVzZXJfaWQiOiJjNWY1Yzc4Yy1hMzM4LTQ3MTQtOWM4Zi1hNmE2ZDMyMDAyZWMiLCJ1c2VyX2Fuc3dlciI6IiIsImxvY2tfaXMiOiJGYWxzZSIsImlzX3R2IjoiIiwiaXNfYWRtaW4iOiJGYWxzZSIsInJlZ190aW1lIjpudWxsLCJyZWdfa2V5IjoiIiwidHZfdGltZSI6bnVsbCwidHZfa2V5IjoiIn0sImV4cCI6MTY2MzAzMzk2NiwiaXNzIjoiQWxmcmVkbyBNZW5kb3phIn0.8fY0j9TBEz6OVuVXNrtXuU9NsdW3CMCzwyIX0WNCiIU","jar":"https://mu1jun.github.io/mu1jun/HJ/91b.jar;md5;850a5b1dfa272625693478d6befc4a0e"},
 {"key": "csp_XYQBiu_聚合影视","name": "🍎聚合影视(XYQ)","type": 3,"api": "csp_XYQBiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"https://mu1jun.github.io/mu1jun/CC/聚合影视.json","jar":"https://mu1jun.github.io/mu1jun/HJ/0912.jar;md5;e4d6649a806929aa2cf6ea7e490a8d18"},
   {"key": "Bili","name":"🅱️❗️哔哩哔哩","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://mu1jun.github.io/mu1jun/CC/bilibili1.json","jar":"https://mu1jun.github.io/mu1jun/HJ/BB.jar;md5;c5c337bb2793598e9aa5953898fbb087"}, 
 {"key":"csp_美剧虫v1","name":"🐛美剧虫(V1)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://meijuchong.cc/api.php/v1.vod"},
 {"key":"APPTT","name":"🎨图图(SP)","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://mu1jun.github.io/mu1jun/HJ/XC0926w.jar;md5;15462016CBE37BA591A6F37E1BF42E33"},
 {"key":"追剧喵","name":"🐨追剧喵(SP)","type":3,"api":"csp_ZJMiao","searchable":1,"quickSearch":1,"filterable":1},
-
+{"key": "py_cctv","name": "🦂央视自选","type": 3,"api": "py_cctv","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://mu1jun.github.io/mu1jun/CC/py_cctv.py"},
+{"key": " py_3qu","name": "🎥快播影视","type": 3,"api": "py_3qu","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://mu1jun.github.io/mu1jun/CC/py_3qu.py"},
+{"key": "py_bilimd","name":"哔哩影视(py)","type":3,"api":"py_bilimd","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://mu1jun.github.io/mu1jun/CC/bilimd.py"},
+{"key":"py_czspp","name":"厂长影视(py)","type":3,"api":"py_czspp","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://mu1jun.github.io/mu1jun/CC/czsy.py"},
+{"key":"py_huya","name":"虎牙直播(py)","type":3,"api":"py_huya","searchable": 0,"quickSearch":0,"filterable":1,"ext":"https://mu1jun.github.io/mu1jun/CC/huya.py"}, 
+{"key":"py_douyu","name":"斗鱼直播(py)","type":3,"api":"py_douyu","searchable":0,"quickSearch":0,"filterable": 1,"ext":"https://mu1jun.github.io/mu1jun/CC/douyu.py"},
 {"key": "NianYing","name": "🎉 NianYing(SP)","type": 3,"api": "csp_NianYing","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://mu1jun.github.io/mu1jun/HJ/0909.jar;md5;f7e8f5c2ca634d5f5ccfce1d75b54150"},
 
 
 
 {"key":"csp_xpath_libv","name": "🛶Libvio(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mu1jun.github.io/mu1jun/CC/libvp.json","jar":"https://mu1jun.github.io/mu1jun/HJ/cs.jar;md5;292c5f602e90ca870e9a017b16cf59cb"},
-{"key":"csp_biubiu_真不卡影院","name":"🚇真不卡影院(QXB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://mu1jun.github.io/mu1jun/CC/真不卡影院.json"},
+//{"key":"csp_biubiu_真不卡影院","name":"🚇真不卡影院(QXB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://mu1jun.github.io/mu1jun/CC/真不卡影院.json"},
 {"key":"csp_biubiu_朽念影视","name":"🌴朽念影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://mu1jun.github.io/mu1jun/CC/朽念影视.json"},
 
 {
@@ -71,7 +76,7 @@
  {"key":"csp_xBPQ_在线之家","name":"️xBPQ | 在线之家⭕️","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://mu1jun.github.io/mu1jun/CC/zxzj.json"},
 
 
-{"key":"csp_XYQBiu_555影视","name":"🎂555影视(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://mu1jun.github.io/mu1jun/CC/555影视.json","jar":"https://mu1jun.github.io/mu1jun/HJ/YXB.jar;md5;c22e877441db6f0b3247e24be2dd4a44"},
+//{"key":"csp_XYQBiu_555影视","name":"🎂555影视(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://mu1jun.github.io/mu1jun/CC/555影视.json","jar":"https://mu1jun.github.io/mu1jun/HJ/YXB.jar;md5;c22e877441db6f0b3247e24be2dd4a44"},
 {"key":"csp_XYQBiu_剧荒","name":"🎏剧荒(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://mu1jun.github.io/mu1jun/CC/剧荒.json","jar":"https://mu1jun.github.io/mu1jun/HJ/YXB.jar;md5;c22e877441db6f0b3247e24be2dd4a44"},
 {"key":"csp_QXBiubiu_小强迷","name":"🍁小强迷(QXB)","type":3,"api":"csp_QXBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://mu1jun.github.io/mu1jun/CC/小强迷1.json","jar":"https://mu1jun.github.io/mu1jun/HJ/00test.jar;md5;8bc28c68b7dfb8019b2fe9f02a9075ee"},
 {"key":"csp_XYQBiu_万能影院(XYQ)","name":"🍣万能影院(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://mu1jun.github.io/mu1jun/CC/万能影院.json","jar":"https://mu1jun.github.io/mu1jun/HJ/xzy.jar;md5;8CDEE14FC4CB8313B6FD1F431BC28718"},
