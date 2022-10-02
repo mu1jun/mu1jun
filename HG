@@ -53,6 +53,8 @@
 {"key": "py_bilimd","name":"哔哩影视(py)","type":3,"api":"py_bilimd","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://agit.ai/jm/me/raw/branch/master/PO/bilimd.py"},
 {"key":"py_czspp","name":"厂长影视(py)","type":3,"api":"py_czspp","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://agit.ai/jm/me/raw/branch/master/PO/czsy.py"},
 {"key":"py_huya","name":"虎牙直播(py)","type":3,"api":"py_huya","searchable": 0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/jm/me/raw/branch/master/PO/huya.py"}, 
+{"key":"py_douyu","name":"斗鱼直播(py)","type":3,"api":"py_douyu","searchable":0,"quickSearch":0,"filterable": 1,"ext":"https://agit.ai/jm/me/raw/branch/master/PO/douyu.py"},
+
 {"key":"csp_XBPQ皮皮泡影视","name":"💡皮皮泡影视〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/jm/me/raw/branch/master/PO/皮皮泡影视.json"}, 
 
 {"key":"csp_xpath_libv","name": "🛶Libvio(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/jm/me/raw/branch/master/PO/libvp.json","jar":"https://agit.ai/jm/me/raw/branch/master/ja/cs.jar;md5;292c5f602e90ca870e9a017b16cf59cb"},
