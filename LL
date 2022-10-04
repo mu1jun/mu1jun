@@ -16,9 +16,9 @@
 {"key":"csp_Gitcafe","name":"📜阿里纸条(搜索)","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":0,"ext":"81461f2e9d0b4ffb86612db403824b8a"},
 {"key":"csp_AliPS","name":"🎃喵狸盘搜(搜索)","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":0,"ext":"81461f2e9d0b4ffb86612db403824b8a"},
 {"key":"t4public","name":"T4聚搜 🈴","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=4acb3ad2f2254ba1b566279f7cd98ba3&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"Zhaozy","name":"🤑找资源(搜索)","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"ext":"81461f2e9d0b4ffb86612db403824b8a","jar":"https://mu1jun.github.io/mu1jun/HJ/TOKENtest.jar;md5;50873684e56831f13e6d119ec2862c4a"},
+{"key":"Zhaozy","name":"🤑找资源(搜索)","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"ext":"81461f2e9d0b4ffb86612db403824b8a","jar":"https://ghproxy.com/https://mu1jun.github.io/mu1jun/HJ/TOKENtest.jar;md5;50873684e56831f13e6d119ec2862c4a"},
 
-{"key":"csp_Yisou","name":"🤡易搜盘(搜索)","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":0,"ext":"81461f2e9d0b4ffb86612db403824b8a","jar":"https://mu1jun.github.io/mu1jun/HJ/TOKENtest.jar;md5;50873684e56831f13e6d119ec2862c4a"},
+{"key":"csp_Yisou","name":"🤡易搜盘(搜索)","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":0,"ext":"81461f2e9d0b4ffb86612db403824b8a","jar":"https://ghproxy.com/https://mu1jun.github.io/mu1jun/HJ/TOKENtest.jar;md5;50873684e56831f13e6d119ec2862c4a"},
 
 {"key":"csp_xpath_cilisou","name":"🤑磁力搜(搜索)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://mu1jun.github.io/mu1jun/CC/磁力.json"},
 //{"key":"csp_biubiu_皮皮泡","name":"🌕皮皮泡(推荐)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/cainisi/TVBox/raw/master/XBiubiu/皮皮泡.json"},
@@ -34,9 +34,9 @@
 {"key": "csp_Yj1211","name": "📽️游戏直播(SP)","type": 3,"api": "csp_Yj1211","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://mu1jun.github.io/mu1jun/HJ/修复直播.jar;md5;007c4f7c81c2d53c12a157c63cc6ab88"},    
 
 {"key":"csp_LiteApple","name":"🍎小苹果(SP)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable": 1},
-{"key":"csp_XYQBiu_虎牙直播","name":"🐯虎牙直播(YXQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://mu1jun.github.io/mu1jun/CC/虎牙代理.json","jar":"https://mu1jun.github.io/mu1jun/HJ/YXB.jar;md5;c22e877441db6f0b3247e24be2dd4a44"},
-{"key":"csp_XYQBiu_斗鱼直播","name":"🐳斗鱼直播(YXQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://mu1jun.github.io/mu1jun/CC/斗鱼直播.json","jar":"https://mu1jun.github.io/mu1jun/HJ/YXB.jar;md5;c22e877441db6f0b3247e24be2dd4a44"},
-{"key":"csp_XYQBiu_网易CC直播","name":"👋网易CC直播(YXQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://mu1jun.github.io/mu1jun/CC/网易CC直播.json","jar":"https://mu1jun.github.io/mu1jun/HJ/YXB.jar;md5;c22e877441db6f0b3247e24be2dd4a44"},
+{"key":"csp_XYQBiu_虎牙直播","name":"🐯虎牙直播(YXQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://mu1jun.github.io/mu1jun/CC/虎牙代理.json","jar":"https://ghproxy.com/https://mu1jun.github.io/mu1jun/HJ/YXB.jar;md5;c22e877441db6f0b3247e24be2dd4a44"},
+{"key":"csp_XYQBiu_斗鱼直播","name":"🐳斗鱼直播(YXQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://mu1jun.github.io/mu1jun/CC/斗鱼直播.json","jar":"https://ghproxy.com/https://mu1jun.github.io/mu1jun/HJ/YXB.jar;md5;c22e877441db6f0b3247e24be2dd4a44"},
+{"key":"csp_XYQBiu_网易CC直播","name":"👋网易CC直播(YXQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://mu1jun.github.io/mu1jun/CC/网易CC直播.json","jar":"https://ghproxy.com/https://mu1jun.github.io/mu1jun/HJ/YXB.jar;md5;c22e877441db6f0b3247e24be2dd4a44"},
 {"key": "csp_XYQBiu_在线之家","name": "💪在线之家(XYQB)","type": 3,"api": "csp_XYQBiu","searchable": 0,"quickSearch": 0,"filterable": 0,"ext":"https://mu1jun.github.io/mu1jun/CC/zxzj-xyq.json"},
 {"key": "哔滴影视","name": "👌哔滴影视(爬虫)","type": 3,"api": "csp_Bdys01","searchable": 1,"quickSearch": 1,"filterable": 1},
  
