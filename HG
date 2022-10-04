@@ -13,8 +13,8 @@
 {"key":"csp_Gitcafe","name":"📜阿里纸条(搜索)","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":0,"ext":"29975243e264440b85919670b76916c4"},
 {"key":"csp_AliPS","name":"🎃喵狸盘搜(搜索)","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":0,"ext":"29975243e264440b85919670b76916c4"},
 {"key":"t4public","name":"T4聚搜 🈴","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=4acb3ad2f2254ba1b566279f7cd98ba3&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"Zhaozy","name":"🤑找资源(搜索)","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"ext":"29975243e264440b85919670b76916c4","jar":"https://agit.ai/jm/me/raw/branch/master/ja/TOKENtest.jar;md5;50873684e56831f13e6d119ec2862c4a"},
-
+//{"key":"Zhaozy","name":"🤑找资源(搜索)","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"ext":"29975243e264440b85919670b76916c4","jar":"https://agit.ai/jm/me/raw/branch/master/ja/TOKENtest.jar;md5;50873684e56831f13e6d119ec2862c4a"},
+{"key": "zhaozy","name": "🤑找资源(仅搜索)","type": 3,"api": "csp_FindZY","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"29975243e264440b85919670b76916c4"},
 {"key":"csp_Yisou","name":"🤡易搜盘(搜索)","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":0,"ext":"29975243e264440b85919670b76916c4","jar":"https://agit.ai/jm/me/raw/branch/master/ja/TOKENtest.jar;md5;50873684e56831f13e6d119ec2862c4a"},
 
 {"key":"csp_xpath_cilisou","name":"🤑磁力搜(搜索)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/jm/me/raw/branch/master/PO/磁力.json"},
