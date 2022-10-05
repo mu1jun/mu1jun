@@ -46,7 +46,7 @@
 {"key":"APPTT","name":"🎨图图(SP)","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/jm/me/raw/branch/master/ja/XC0926w.jar;md5;15462016CBE37BA591A6F37E1BF42E33"},
 {"key":"追剧喵","name":"🐨追剧喵(SP)","type":3,"api":"csp_ZJMiao","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key": "NianYing","name": "🎉 NianYing(SP)","type": 3,"api": "csp_NianYing","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://agit.ai/jm/me/raw/branch/master/ja/0909.jar;md5;f7e8f5c2ca634d5f5ccfce1d75b54150"},
+{"key": "NianYing","name": "🎉 NianYing(SP)","type": 3,"api": "csp_NianYing","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://agit.ai/jm/me/raw/branch/master/ja/1001.jar;md5;c474a7a9d106ef348f4ebdc7705c6d38"},
 {"key": "py_cctv","name": "🦂央视自选","type": 3,"api": "py_cctv","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://agit.ai/jm/me/raw/branch/master/PO/py_cctv.py"},
 {"key": " py_3qu","name": "🎥快播影视","type": 3,"api": "py_3qu","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://agit.ai/jm/me/raw/branch/master/PO/py_3qu.py"},
 {"key": "py_bilimd","name":"哔哩影视(py)","type":3,"api":"py_bilimd","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://agit.ai/jm/me/raw/branch/master/PO/bilimd.py"},
