@@ -59,15 +59,7 @@
 {"key":"csp_biubiu_真不卡影院","name":"🚇真不卡影院(QXB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/jm/me/raw/branch/master/PO/真不卡影院.json"},
 {"key":"csp_biubiu_朽念影视","name":"🌴朽念影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/jm/me/raw/branch/master/PO/朽念影视.json"},
 
-{
-   "key": "dr_l0l",
-   "name": "🌐l0l(道长)",
-   "type": 1,
-   "api": "https://t4.aqingyuan.repl.co/vod?rule=l0l",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 0
-  },
+
 
  {"key":"csp_xBPQ_在线之家","name":"️xBPQ | 在线之家⭕️","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/jm/me/raw/branch/master/PO/zxzj.json"},
 
