@@ -52,7 +52,7 @@
 {"key":"py_czspp","name":"厂长影视(py)","type":3,"api":"py_czspp","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://agit.ai/jm/me/raw/branch/master/PO/czsy.py"},
 {"key":"py_huya","name":"虎牙直播(py)","type":3,"api":"py_huya","searchable": 0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/jm/me/raw/branch/master/PO/huya.py"}, 
 {"key":"py_douyu","name":"斗鱼直播(py)","type":3,"api":"py_douyu","searchable":0,"quickSearch":0,"filterable": 1,"ext":"https://agit.ai/jm/me/raw/branch/master/PO/douyu.py"},
-
+{"key": "py_3qu","name": "3QU(pyramid)","type": 3,"api": "py_3qu","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://agit.ai/jm/me/raw/branch/master/PO/py_3qu.py"},
 {"key":"csp_XBPQ皮皮泡影视","name":"💡皮皮泡影视〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/jm/me/raw/branch/master/PO/皮皮泡影视.json"}, 
 {"key":"csp_XBPQLIBVIO","name":" 🍂LIBVIO〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/jm/me/raw/branch/master/PO/LIBVIO.json"},
 {"key":"csp_xBPQ_Fositv","name":" 🍂Fositv xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/jm/me/raw/branch/master/PO/Fositv.json"},
