@@ -674,7 +674,7 @@
     }
    }
   },
-  
+  {"name":"课余","type":1,"url":"http://newjiexi.gotka.top/keyu3.php?url=","ext":{"flag":["qq","qiyi","youku","mgtv","pptv","le","sohu","bilibili","xigua","1905"],"header":{"User-Agent":"okhttp/4.1.0"}}},
   {
    "name": "ok解析",
    "url": "https://okjx.cc/?url=",
