@@ -9,12 +9,12 @@
   "sites":[
 
 
-{"key": "Yiso","name": "👽易搜(仅搜索)","type": 3,"api": "csp_Yiso","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"998c79f4f189435090049164d503e4e3"},
-{"key":"csp_Gitcafe","name":"📜阿里纸条(搜索)","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"998c79f4f189435090049164d503e4e3"},
+{"key": "Yiso","name": "👽易搜(仅搜索)","type": 3,"api": "csp_Yiso","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"f6fcd2d1c0e54601805413721d89e0ca"},
+{"key":"csp_Gitcafe","name":"📜阿里纸条(搜索)","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"f6fcd2d1c0e54601805413721d89e0ca"},
 {"key":"csp_Upyunso","name":"☁️Up云搜","type":3,"api":"csp_Upyunso","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"},
 {"key":"t4public","name":"T4聚搜 🈴","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=4acb3ad2f2254ba1b566279f7cd98ba3&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"AliPS","name":"🐱阿里盘搜","type": 3,"api": "csp_AliPS","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"998c79f4f189435090049164d503e4e3"},
-{"key": "zhaozy","name": "🤑找资源(仅搜索)","type": 3,"api": "csp_FindZY","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"998c79f4f189435090049164d503e4e3"},
+{"key":"AliPS","name":"🐱阿里盘搜","type": 3,"api": "csp_AliPS","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"f6fcd2d1c0e54601805413721d89e0ca"},
+{"key": "zhaozy","name": "🤑找资源(仅搜索)","type": 3,"api": "csp_FindZY","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"f6fcd2d1c0e54601805413721d89e0ca"},
 
 
 
