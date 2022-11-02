@@ -14,7 +14,7 @@
 {"key":"csp_Upyunso","name":"☁️Up云搜","type":3,"api":"csp_Upyunso","searchable":1,"quickSearch":1,"filterable":1,"ext": "c3895f91c81741959c22feb5fe3a5def"},
 {"key":"t4public","name":"T4聚搜 🈴","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=4acb3ad2f2254ba1b566279f7cd98ba3&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"AliPS","name":"🐱阿里盘搜","type": 3,"api": "csp_AliPS","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"ca11dd9c11a845758db1bc179c39aef9"},
-{"key": "zhaozy","name": "🤑找资源(仅搜索)","type": 3,"api": "csp_FindZY","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"c3895f91c81741959c22feb5fe3a5def"},
+{"key": "zhaozy","name": "🤑找资源(仅搜索)","type": 3,"api": "csp_Zhaozy","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"c3895f91c81741959c22feb5fe3a5def"},
 
 
 
