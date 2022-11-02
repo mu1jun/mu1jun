@@ -26,7 +26,7 @@
 {"key":"小小影视","name":"❎小小影视(SP)","api":"csp_Xxys","type":3,"filterable":1,"quickSearch":1,"searchable":1,"jar":"https://agit.ai/jm/me/raw/branch/master/ja/ayt.jar;md5;cac73c3129ff2dc79f73ec4d6d0563a6"},
 {"key": "csp_DiDuan","name": "🎋低端影视（SP）","type": 3,"api": "csp_Ddrk","searchable": 1,"quickSearch": 1,"filterable": 0},
 {"key":"KanSJ_spider","name":"🐸看视界（SP）","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"","jar":"https://agit.ai/jm/me/raw/branch/master/ja/0828.jar;md5;1C1482FF646CC40E1F924EBE320822BC"},
-
+{"key":"csp_Bd","name":"💥bidi","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_SP293","name":"🎍293影视","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/jm/me/raw/branch/master/ja/1001.jar;md5;c474a7a9d106ef348f4ebdc7705c6d38"},    
 {"key": "剧荒TV（SP）","name": "🐈剧荒TV（SP）","type": 3,"api": "csp_Juhuang","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"","jar":"https://agit.ai/jm/me/raw/branch/master/ja/juhuang.jar;md5;076e2157530714a37606e1599c01a19a"},
 {"key": "csp_Yj1211","name": "📽️游戏直播(SP)","type": 3,"api": "csp_Yj1211","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://agit.ai/jm/me/raw/branch/master/ja/修复直播.jar;md5;007c4f7c81c2d53c12a157c63cc6ab88"},    
@@ -103,19 +103,7 @@
 {"key":"csp_xBPQ_达达龟","name":"️xBPQ | 达达龟⭕️","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/jm/me/raw/branch/master/PO/ddgui.json"},
 {"key":"csp_xBPQ_饭团TV","name":"️xBPQ | 饭团TV⭕️","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/jm/me/raw/branch/master/PO/fantuanTV.json"},
 {"key":"csp_xBPQ_凌云影视","name":"️xBPQ | 凌云影视⭕️","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/jm/me/raw/branch/master/PO/lingyunys.json"},
-{"key": "csp_xb_玄天","name": "💠玄天影院(R)","type": 3,"api": "csp_XBiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://m.7caa.com/list/{cateId}-{catePg}.html","jar": "https://agit.ai/jm/me/raw/branch/master/ja/XBiu.jar;md5;f5f56c383336ab7cc88311a04cee9755"},
-{"key": "csp_xb_pipipaoys","name": "💠皮皮泡(R)","type": 3,"api": "csp_XBiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://www.pipipao.com/vodshow/id/{cateId}/page/{catePg}.html","jar": "https://agit.ai/jm/me/raw/branch/master/ja/XBiu.jar;md5;f5f56c383336ab7cc88311a04cee9755"},
 
-
-{
-            "key": "Smdyy",
-            "name": "🐎神马影院",
-            "type": 3,
-            "api": "csp_Smdyy",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
 
 
 {
@@ -129,10 +117,7 @@
       "ext": "{\r\n  \"author\": \"春风\",\r\n  \"ua\": \"\",\r\n  \"homeUrl\": \"https://www.wanmeikk.film/\",\r\n  \"dcVipFlag\": \"true\",\r\n  \"pCfgJs\": \"https://www.wanmeikk.film/static/js/playerconfig.js\",\r\n  \"pCfgJsR\": \"MacPlayerConfig.player_list=([\\\\w\\\\W]*?),MacPlayerConfig.downer_list=\",\r\n  \"dcShow2Vip\": {},\r\n  \"dcPlayUrl\": \"true\",\r\n  \"cateManual\": {\r\n    \"电影\": \"1\",\r\n    \"欧美剧\": \"2\",\r\n    \"韩剧\": \"3\",\r\n    \"日剧\": \"4\",\r\n    \"国产剧\": \"5\",\r\n    \"泰剧\": \"9\",\r\n    \"动漫\": \"6\",\r\n    \"纪录片\": \"10\"\r\n  },\r\n  \"homeVodNode\": \"//li[contains(@class,'col-md-6 col-sm-4') or contains(@class,'col-lg-6 col-md-4')]//div[contains(@class,'stui-vodlist__box')]/a\",\r\n  \"homeVodName\": \"/@title\",\r\n  \"homeVodId\": \"/@href\",\r\n  \"homeVodIdR\": \"/project/(\\\\w+).html\",\r\n  \"homeVodImg\": \"/@data-original\",\r\n  \"homeVodImgR\": \"\",\r\n  \"homeVodMark\": \"/span[@class='pic-text text-right']/text()\",\r\n  \"cateUrl\": \"https://www.wanmeikk.me/category/{cateId}-{catePg}.html\",\r\n  \"cateVodNode\": \"//div[contains(@class,'stui-vodlist__box')]/a\",\r\n  \"cateVodName\": \"/@title\",\r\n  \"cateVodId\": \"/@href\",\r\n  \"cateVodIdR\": \"/project/(\\\\w+).html\",\r\n  \"cateVodImg\": \"/@data-original\",\r\n  \"cateVodImgR\": \"\",\r\n  \"cateVodMark\": \"/span[@class='pic-text text-right']/text()\",\r\n  \"dtUrl\": \"https://www.wanmeikk.me/project/{vid}.html\",\r\n  \"dtNode\": \"//body\",\r\n  \"dtName\": \"//div[@class='stui-content__thumb']/a/@title\",\r\n  \"dtNameR\": \"\",\r\n  \"dtImg\": \"//div[@class='stui-content__thumb']/a/img/@data-original\",\r\n  \"dtImgR\": \"\",\r\n  \"dtCate\": \"//span[contains(text(), '类型')]/following-sibling::a/text()\",\r\n  \"dtCateR\": \"\",\r\n  \"dtYear\": \"//span[contains(text(), '年份')]/following-sibling::a/text()>\",\r\n  \"dtYearR\": \"\",\r\n  \"dtArea\": \"//span[contains(text(), '地区')]/following-sibling::a/text()\",\r\n  \"dtAreaR\": \"\",\r\n  \"dtDirector\": \"//span[contains(text(), '导演')]/following-sibling::a/text()\",\r\n  \"dtDirectorR\": \"\",\r\n  \"dtActor\": \"//span[contains(text(), '主演')]/following-sibling::a/text()\",\r\n  \"dtActorR\": \"\",\r\n  \"dtDesc\": \"//span[contains(text(), '剧情')]/following-sibling::/span[2]/text()\",\r\n  \"dtDescR\": \"\",\r\n  \"dtFromNode\": \"//div[contains(@class,'bottom-line')]/h3\",\r\n  \"dtFromName\": \"concat('播放源',count(parent::*/preceding::*//div[contains(@class,'bottom-line')]/h3) + 1)\",\r\n  \"dtFromNameR\": \"(\\\\S+).0\",\r\n  \"dtUrlNode\": \"//div[@class='stui-pannel_bd col-pd clearfix']/ul\",\r\n  \"dtUrlSubNode\": \"/li/a\",\r\n  \"dtUrlId\": \"@href\",\r\n  \"dtUrlIdR\": \"/play/(\\\\S+).html\",\r\n  \"dtUrlName\": \"/text()\",\r\n  \"dtUrlNameR\": \"\",\r\n  \"playUrl\": \"https://www.wanmeikk.me/play/{playUrl}.html\",\r\n  \"playUa\": \"\",\r\n  \"searchUrl\": \"https://www.wanmeikk.me/index.php/ajax/suggest?mid=1&wd={wd}&limit=10\",\r\n  \"scVodNode\": \"json:list\",\r\n  \"scVodName\": \"name\",\r\n  \"scVodId\": \"id\",\r\n  \"scVodIdR\": \"\",\r\n  \"scVodImg\": \"pic\",\r\n  \"scVodMark\": \"\"\r\n}\r\n","jar":"https://agit.ai/jm/me/raw/branch/master/ja/资源包.jar;md5;2FA165C9AA72ADA6AB74A3DEDB58FF6B"},
 
 
-{"key":"厂长影视","name":"👮🏼厂长影视","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/jm/me/raw/branch/master/ja/TS.jar;md5;5611077a5ca14dfb4af0628f311bc9a5"},
-{"key": "Lezhu_spider","name": "🐷乐猪影视","api": "csp_Lezhu","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"ext": ""}, 
-{"key": "9E03","name": "9️⃣ 9E03","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://vod.9e03.com/lvdou_api.php/v1.vod",
-     "jar":"https://agit.ai/jm/me/raw/branch/master/ja/9e03.jar;md5;226db2fc833312b73b0bf57c7dd41484"},
+
 {"key":"mtv_xp_红领巾源","name":"📢红领巾源(XB)","type":3,"api":"csp_XBiubiu"       ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/jm/me/raw/branch/master/PO/红领巾影院.json"},
 {"key":"mtv_xp_VIP电影","name":"🍩VIP电影(XB)","type":3,"api":"csp_XBiubiu"       ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/jm/me/raw/branch/master/PO/VIP电影.json"},
 
