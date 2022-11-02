@@ -9,7 +9,7 @@
   "sites":[
 
 
-{"key": "Yiso","name": "👽易搜(仅搜索)","type": 3,"api": "csp_Yiso","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"c3895f91c81741959c22feb5fe3a5def"},
+{"key": "Yiso","name": "👽易搜(仅搜索)","type": 3,"api": "csp_Yisou","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"c3895f91c81741959c22feb5fe3a5def"},
 {"key":"csp_Gitcafe","name":"📜阿里纸条(搜索)","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"c3895f91c81741959c22feb5fe3a5def"},
 {"key":"csp_Upyunso","name":"☁️Up云搜","type":3,"api":"csp_Upyunso","searchable":1,"quickSearch":1,"filterable":1,"ext": "c3895f91c81741959c22feb5fe3a5def"},
 {"key":"t4public","name":"T4聚搜 🈴","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=4acb3ad2f2254ba1b566279f7cd98ba3&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
