@@ -1,7 +1,7 @@
 ﻿{
   
-   "spider":"https://agit.ai/jm/me/raw/branch/master/ja/xo1102.jar;md5;c4ba98711fac35daff17780d0817f5dc",
-   //"spider":"https://agit.ai/jm/me/raw/branch/master/ja/Yoursmile (1).jar;md5;CC30F5AD01008CBFBE7CCBAB843F2F0E",
+   //"spider":"https://agit.ai/jm/me/raw/branch/master/ja/xo1102.jar;md5;c4ba98711fac35daff17780d0817f5dc",
+   "spider":"https://agit.ai/jm/me/raw/branch/master/ja/Yoursmile (1).jar;md5;CC30F5AD01008CBFBE7CCBAB843F2F0E",
    //"spider":"https://agit.ai/jm/me/raw/branch/master/ja/LZ0925.jar;md5;a1df350ddb1735dbed67ee65227e6cd9",
     "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9tdTFqdW4uZ2l0aHViLmlvL211MWp1bi9saXZlMS50eHQ="]}]}],
 
@@ -27,7 +27,7 @@
 {"key": "csp_DiDuan","name": "🎋低端影视（SP）","type": 3,"api": "csp_Ddrk","searchable": 1,"quickSearch": 1,"filterable": 0},
 {"key":"KanSJ_spider","name":"🐸看视界（SP）","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"","jar":"https://agit.ai/jm/me/raw/branch/master/ja/0828.jar;md5;1C1482FF646CC40E1F924EBE320822BC"},
 {"key":"csp_Bd","name":"💥bidi","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_ny","name":"🐮念影┃SP","type":3,"api":"csp_Nianying","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_ny","name":"🐮念影┃SP","type":3,"api":"csp_Nianying","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/jm/me/raw/branch/master/ja/xo1102.jar;md5;c4ba98711fac35daff17780d0817f5dc"},
 {"key": "剧荒TV（SP）","name": "🐈剧荒TV（SP）","type": 3,"api": "csp_Juhuang","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"","jar":"https://agit.ai/jm/me/raw/branch/master/ja/juhuang.jar;md5;076e2157530714a37606e1599c01a19a"},
 {"key": "csp_Yj1211","name": "📽️游戏直播(SP)","type": 3,"api": "csp_Yj1211","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://agit.ai/jm/me/raw/branch/master/ja/修复直播.jar;md5;007c4f7c81c2d53c12a157c63cc6ab88"},    
 {"key":"csp_Zxzj","name":"🏠在线之家","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},
