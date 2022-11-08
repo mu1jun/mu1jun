@@ -42,7 +42,7 @@
 {"key":"棉花影视","name":"❄️棉花影视","type":3,"api":"csp_MianHua","searchable":1,"quickSearch":1,"filterable":0,"jar":"https://agit.ai/jm/me/raw/branch/master/ja/Pandora.jar;md5;f6e93e53b2384e118aa1afb6286970fe"},
 {"key":"csp_ny","name":"念影","type":3,"api":"csp_Nianying","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/jm/me/raw/branch/master/ja/xo1103.jar;md5;476e88e8c58df74aad7a145eabcf80c2"},
 {"key":"csp_hbys","name":"✨简影","type":3,"api":"csp_JianYing","filterable":1,"quickSearch":1,"searchable":1,"ext":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjozNDEwMiwiQ3JlYXRlZEF0IjoiMjAyMi0wOS0xNlQyMTo0Nzo1Ni44NDUrMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTA5LTE2VDIxOjQ3OjU2Ljg0NSswODowMCIsIkRlbGV0ZWRBdCI6bnVsbCwidXNlcl9lbWFpbCI6IjI0Mjk0OTc3NTZAcXEuY29tIiwidXNlcl9uYW1lIjoiIiwidXNlcl9wd2QiOiIiLCJ1c2VyX2lkIjoiZTI2MmY0NTEtZjE4Ni00OGQwLWE1MjctZjc5M2Q5MjUyYmYyIiwidXNlcl9hbnN3ZXIiOiIiLCJsb2NrX2lzIjoiRmFsc2UiLCJpc190diI6IiIsImlzX2FkbWluIjoiRmFsc2UiLCJyZWdfdGltZSI6bnVsbCwicmVnX2tleSI6IiIsInR2X3RpbWUiOm51bGwsInR2X2tleSI6IiJ9LCJleHAiOjE2NjgzODk0MzcsImlzcyI6IkFsZnJlZG8gTWVuZG96YSJ9.2BnwO03h_AL4CaEYWl5wtToaOo9cNFSlIeTr0zf4Dqs","jar":"https://agit.ai/jm/me/raw/branch/master/ja/xo1103.jar;md5;476e88e8c58df74aad7a145eabcf80c2"},
-
+{"key":"csp_Tkys","name": "❄️天空","type": 3,"api": "csp_Tkys","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://agit.ai/jm/me/raw/branch/master/ja/xo1103.jar;md5;476e88e8c58df74aad7a145eabcf80c2"},
 
 
 {"key":"csp_剧荒","name":"👿剧荒","type": 3,"api": "csp_Juhuang","searchable": 1,"quickSearch": 1,"filterable": 1},
