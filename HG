@@ -38,8 +38,8 @@
 {"key":"csp_XYQBiu_网易CC直播","name":"👋网易CC直播(YXQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/jm/me/raw/branch/master/PO/网易CC直播.json"},
 {"key": "csp_XYQBiu_在线之家","name": "💪在线之家(XYQB)","type": 3,"api": "csp_XYQBiu","searchable": 0,"quickSearch": 0,"filterable": 0,"ext":"https://agit.ai/jm/me/raw/branch/master/PO/zxzj-xyq.json"},
 {"key": "哔滴影视","name": "👌哔滴影视(爬虫)","type": 3,"api": "csp_Bdys01","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key":"Relax","name":"轻松视频","type":3,"api":"csp_RelaxSP","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":""},
-{"key":"棉花影视","name":"棉花影视","type":3,"api":"csp_MianHua","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"Relax","name":"轻松视频","type":3,"api":"csp_RelaxSP","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"","jar":"https://agit.ai/jm/me/raw/branch/master/ja/Pandora.jar;md5;f6e93e53b2384e118aa1afb6286970fe"},
+{"key":"棉花影视","name":"棉花影视","type":3,"api":"csp_MianHua","searchable":1,"quickSearch":1,"filterable":0,"jar":"https://agit.ai/jm/me/raw/branch/master/ja/Pandora.jar;md5;f6e93e53b2384e118aa1afb6286970fe"},
 
 
 
