@@ -106,6 +106,9 @@ CGTN,http://39.134.65.208/PLTV/88888888/224/3221225510/index.m3u8
 风云足球,http://58.222.75.102:9901/tsfile/live/1037_1.m3u8
 高尔夫网球,http://58.222.75.102:9901/tsfile/live/1038_1.m3u8
 女性时尚,http://58.222.75.102:9901/tsfile/live/1039_1.m3u8
+央视台球,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/index.m3u8
+央视台球,http://111.20.33.70/PLTV/88888893/224/3221226956/index.m3u8
+央视台球,http://125.39.177.227/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012513703.m3u8
 ETV1,https://txycsbl.centv.cn/zb/0628cetv1.m3u8
 CETV1,http://183.207.255.188/live/program/live/zgjy1ott/1300000/mnf.m3u8
 CNC,http://39.135.138.59:18890/PLTV/88888910/224/3221225694/index.m3u8
