@@ -564,7 +564,9 @@
 		"name": "rx2",
 		"type": 1,
 		"url": "http://rxjx.kuanjv.com/allm3u8.php?url="
-	}, {
+	}, 
+	
+	{
 		"name": "可与",
 		"type": 1,
 		"url": "http://newjiexi.gotka.top/keyu3.php?url=",
