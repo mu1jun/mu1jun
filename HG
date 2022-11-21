@@ -20,6 +20,7 @@
 
 {"key":"csp_77","name":"👒酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"360_spider","name":"💘360影视","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
+{"key":"LiteApple","name":"小苹果","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"6deed4548c44b18d268a5d828f04d86e","jar":"https://agit.ai/jm/me/raw/branch/master/ja/custom_spider.jar;md5;517cbee472fc544a9d629eec245dea63"},  
 {"key":"IKan","name":"爱看","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"a4ce9a4ba7d4f4bced2ff9dfc4ab4e50","jar":"https://agit.ai/jm/me/raw/branch/master/ja/custom_spider.jar;md5;517cbee472fc544a9d629eec245dea63"},  
 {"key":"Kuaikan","name":"快看","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"459b1cb892e317546676a2c9dcec2bff","jar":"https://agit.ai/jm/me/raw/branch/master/ja/custom_spider.jar;md5;517cbee472fc544a9d629eec245dea63"},
 {"key": "csp_DiDuan","name": "🎋低端影视（SP）","type": 3,"api": "csp_Ddrk","searchable": 1,"quickSearch": 1,"filterable": 0},
