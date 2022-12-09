@@ -3,7 +3,7 @@
    //"spider":"https://agit.ai/jm/me/raw/branch/master/ja/xo1102.jar;md5;c4ba98711fac35daff17780d0817f5dc",
    "spider":"https://agit.ai/jm/me/raw/branch/master/ja/Yoursmile (1).jar;md5;CC30F5AD01008CBFBE7CCBAB843F2F0E",
    //"spider":"https://agit.ai/jm/me/raw/branch/master/ja/LZ0925.jar;md5;a1df350ddb1735dbed67ee65227e6cd9",
-    "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9tdTFqdW4uZ2l0aHViLmlvL211MWp1bi9saXZlMS50eHQ="]}]}],
+    //"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9tdTFqdW4uZ2l0aHViLmlvL211MWp1bi9saXZlMS50eHQ="]}]}],
 
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
   "sites":[
